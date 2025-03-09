@@ -1,0 +1,30 @@
+.uploadBox {
+    width: 100%;
+    max-width: 600px;
+    margin: 30px auto;
+    text-align: center;
+    border: 2px dashed #6a0dad;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    background: white;
+    transition: 0.3s;
+  }
+  
+  .uploadBox:hover {
+    background: rgba(106, 13, 173, 0.1);
+  }
+  
+  .uploadLabel {
+    font-size: 1.5rem;
+    color: #6a0dad;
+    font-weight: bold;
+  }
+  
+  .preview {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+  
